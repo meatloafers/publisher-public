@@ -1,0 +1,7 @@
+title: Publisher
+description: Local media creation and publishing application
+theme: minima
+
+header_pages:
+  - privacy.md
+  - terms.md
